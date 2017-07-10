@@ -1,7 +1,7 @@
 
-#研究better-scroll源码
-##better-scroll源地址：https://github.com/ustbhuangyi/better-scroll
-###以下是better-scroll如何使用的信息
+# 研究better-scroll源码
+## better-scroll源地址：https://github.com/ustbhuangyi/better-scroll
+### 以下是better-scroll如何使用的信息
 
 # better-scroll
 [![npm](https://img.shields.io/npm/v/better-scroll.svg?style=flat-square)](https://www.npmjs.com/package/better-scroll)
